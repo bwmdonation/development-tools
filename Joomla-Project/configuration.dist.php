@@ -28,8 +28,8 @@ class JConfig
 
 	// Site Information
 	public $sitename = '{{Site Name}}';
-	public $MetaDesc = 'A site by LYRASOFT';
-	public $MetaKeys = 'asika, asikart, lyrasoft, seo, joomla';
+	public $MetaDesc = 'A site by Blisswisdom';
+	public $MetaKeys = 'bliss, wisdom';
 	public $MetaTitle = '1';
 	public $MetaAuthor = '1';
 	public $MetaVersion = '0';
