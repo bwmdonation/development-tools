@@ -8,7 +8,6 @@ class JConfig
 	public $password = '';
 	public $db       = '';
 	public $dbprefix = 'foo_';
-	// test
 
 	// Paths
 	public $log_path = '../logs';
@@ -30,7 +29,7 @@ class JConfig
 	// Site Information
 	public $sitename = '{{Site Name}}';
 	public $MetaDesc = 'A site by Blisswisdom';
-	public $MetaKeys = 'bliss, wisdom';
+	public $MetaKeys = 'blisswisdom';
 	public $MetaTitle = '1';
 	public $MetaAuthor = '1';
 	public $MetaVersion = '0';
