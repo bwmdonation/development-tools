@@ -8,6 +8,7 @@ class JConfig
 	public $password = '';
 	public $db       = '';
 	public $dbprefix = 'foo_';
+	// test
 
 	// Paths
 	public $log_path = '../logs';
